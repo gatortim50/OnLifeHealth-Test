@@ -4,7 +4,7 @@ RoR Demo
 Ruby on Rails app used by OnLifeHealth for testing candidates:
 
 ```
-the objectives are in the docs directory
+the directions and input files are in the doc directory
 ```
 
 To run the app:
@@ -17,6 +17,6 @@ To run the app:
   rake db:migrate
   rails s
   open brower to http://0.0.0.0:3000/uploads
-  click on "New Upload" button and browse to docs/Batting-07-12.csv
+  click on "New Upload" button and browse to doc/Batting-07-12.csv
   the output sent to std.out
 ```
